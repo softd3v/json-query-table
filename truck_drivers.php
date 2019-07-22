@@ -18,7 +18,7 @@ $driver_table = json_decode($data, true);
 
 <div class="container">
   <h2>Truck Drivers Table</h2>
-  <input class="form-control" id="myInput" type="text" placeholder="Buscar..">
+  <input class="form-control" id="myInput" type="text" placeholder="Buscar..">l
     <table class="table table-bordered">
     <thead>
       <tr>
@@ -50,5 +50,4 @@ $driver_table = json_decode($data, true);
 
 <!--JAVA***************************************************************-->
 <script type="text/javascript" src="js/search_table.js"></script>
-
 <!--*******************************************************************-->
